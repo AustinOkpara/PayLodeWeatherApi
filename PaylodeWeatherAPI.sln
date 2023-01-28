@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaylodeWeatherAPI", "PaylodeWeatherAPI.csproj", "{FB24A7A3-0286-4071-8636-E1E9DD4B7CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB24A7A3-0286-4071-8636-E1E9DD4B7CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB24A7A3-0286-4071-8636-E1E9DD4B7CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB24A7A3-0286-4071-8636-E1E9DD4B7CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB24A7A3-0286-4071-8636-E1E9DD4B7CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5569123-7EF8-4945-A4CC-DCBFCB647567}
+	EndGlobalSection
+EndGlobal
